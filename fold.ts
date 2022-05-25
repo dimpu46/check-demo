@@ -4,3 +4,6 @@ function getCheck() {
 function yo (){
 console.log("sd");
 }
+function getCheck1() {
+  throw new Error("Function not implemented.");
+}
